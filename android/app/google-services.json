@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549736954894",
+    "project_id": "demoapp-eaabf",
+    "storage_bucket": "demoapp-eaabf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549736954894:android:312b818b516ee994fed05f",
+        "android_client_info": {
+          "package_name": "com.example.powereact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549736954894-ec2ou1uatmean0mrm6ro70er098bj84r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTpSFqELbqCd-nTdiQRIcGHAVx0syn9Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549736954894-ec2ou1uatmean0mrm6ro70er098bj84r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
